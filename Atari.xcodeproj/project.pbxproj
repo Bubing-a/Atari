@@ -13,6 +13,7 @@
 		1A5781D021BF07A7009A5978 /* nice_music.ogg in Resources */ = {isa = PBXBuildFile; fileRef = 1A5781CF21BF07A7009A5978 /* nice_music.ogg */; };
 		1A5781D221BF07A7009A5978 /* sansation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1A5781D121BF07A7009A5978 /* sansation.ttf */; };
 		1A5781D421BF07A7009A5978 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A5781D321BF07A7009A5978 /* icon.png */; };
+		1A5781DC21BF08BD009A5978 /* Atari main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A5781DA21BF08BD009A5978 /* Atari main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,8 @@
 		1A5781CF21BF07A7009A5978 /* nice_music.ogg */ = {isa = PBXFileReference; lastKnownFileType = file; path = nice_music.ogg; sourceTree = "<group>"; };
 		1A5781D121BF07A7009A5978 /* sansation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sansation.ttf; sourceTree = "<group>"; };
 		1A5781D321BF07A7009A5978 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		1A5781DA21BF08BD009A5978 /* Atari main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Atari main.cpp"; sourceTree = "<group>"; };
+		1A5781DB21BF08BD009A5978 /* Atari main.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "Atari main.hpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +63,8 @@
 				1A5781C721BF07A7009A5978 /* ResourcePath.mm */,
 				1A5781C921BF07A7009A5978 /* ResourcePath.hpp */,
 				1A5781CA21BF07A7009A5978 /* main.cpp */,
+				1A5781DB21BF08BD009A5978 /* Atari main.hpp */,
+				1A5781DA21BF08BD009A5978 /* Atari main.cpp */,
 				1A5781CC21BF07A7009A5978 /* Resources */,
 				1A5781C521BF07A7009A5978 /* Supporting Files */,
 			);
@@ -174,6 +179,7 @@
 			files = (
 				1A5781CB21BF07A7009A5978 /* main.cpp in Sources */,
 				1A5781C821BF07A7009A5978 /* ResourcePath.mm in Sources */,
+				1A5781DC21BF08BD009A5978 /* Atari main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
